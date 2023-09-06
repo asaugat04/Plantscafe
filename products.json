@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Mother In Law Tongue Plant",
+        "price": 910.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/sansevieria-houseplant.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Pothos Marble Queen Plant",
+        "price": 812.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/pothos-marble-queen-plant.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Dracaena Marginata Plant",
+        "price": 712.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/dracaena-marginata-house-plant.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "ZZ Plant House Plant Zamioculcas",
+        "price": 622.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/zz-plant-indoor-house-plant300250.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Lucky \"Bamboo\" Dracaena Plant",
+        "price": 688.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/lucky-bamboo-indoor-house-plant300250.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Money Tree House Plant",
+        "price": 532.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/pachira-indoor-house-plant300250.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Aglaonema Plant",
+        "price": 545.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/aglaonema-houseplant-red.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Peace Lily Plant",
+        "price": 440.99,
+        "image": { "fields": { "file": { "url": "https://www.plantandflowerinfo.com/images/peace-lily-houseplant.jpg" } } }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Golden Pothos",
+        "price": 386.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://www.plantandflowerinfo.com/images/pothos-houseplant.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "English Ivy Plant",
+        "price": 378.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://www.plantandflowerinfo.com/images/english-ivy-houseplant-potted.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Cast Iron Plant",
+        "price": 289.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://www.plantandflowerinfo.com/images/cast-iron-house-plant.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Bromeliad Plant",
+        "price": 248.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://www.plantandflowerinfo.com/images/neoregelia-bromeliad-plant.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
